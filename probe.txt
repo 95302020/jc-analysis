@@ -1,1 +1,1 @@
-channel probe ok
+<div class="x">测试中文</div><span>≈1.48倍</span>
